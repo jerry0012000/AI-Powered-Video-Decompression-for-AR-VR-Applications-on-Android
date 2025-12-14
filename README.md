@@ -33,8 +33,8 @@ By leveraging ONNX models for decoding and interpolation, this project provides 
 ## How to Build and Run
 
 1.  **Clone the Repository**
-  - ```bash git clone https://github.com/jerry0012000/AI-Powered-ARVR-Video-Compression.git ```
-  - 
+  - ```bash git clone https://github.com/jerry0012000/AI-Powered-Video-Decompression-for-AR-VR-Applications-on-Android.git ```
+  
 2.  **Open in Android Studio**
   -   Open Android Studio (Hedgehog or newer is recommended).
   -   Select "Open" and navigate to the cloned repository folder.
