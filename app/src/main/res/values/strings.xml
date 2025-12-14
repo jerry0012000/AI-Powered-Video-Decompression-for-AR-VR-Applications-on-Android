@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Decoder App</string>
+    <!-- 2025.12.11 Update: prevent @string/title_activity_obj_viewer error-->
+    <string name="title_activity_obj_viewer">OBJ Viewer</string>
+
+</resources>
