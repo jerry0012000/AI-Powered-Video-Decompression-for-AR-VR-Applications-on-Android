@@ -9,7 +9,7 @@ This Android application demonstrates a novel, AI-driven approach to volumetric 
 
 By leveraging ONNX models for decoding and interpolation, this project provides a practical implementation of cutting-edge academic research in neural-3D-representation, proving its viability on resource-constrained mobile hardware.
 
-![main screen.png](main screen.png)
+![main_screen.png](main_screen.png)
 ---
 
 ## Core Features
